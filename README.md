@@ -14,5 +14,5 @@ Computer Science graduate with experience in full-stack development across web a
 
 ### Contact
 
-- Email: [your.email@example.com](mailto:mayabosy@outlook.com)  
-- LinkedIn: [linkedin.com/in/YOUR-LINKEDIN-HANDLE](https://www.linkedin.com/in/mayabosy/)
+- Email: [mayabosy@outlook.com](mailto:mayabosy@outlook.com)  
+- LinkedIn: [linkedin.com/in/mayabosy](https://www.linkedin.com/in/mayabosy/)
