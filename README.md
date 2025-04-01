@@ -1,6 +1,6 @@
 ### About Me
 
-Computer Science graduate with experience in full-stack development across web and desktop platforms. Comfortable working with JavaScript, TypeScript, React, PHP, and SQL, with additional experience in Java and Microsoft Azure. I focus on writing clean, accessible, and maintainable code, and enjoy building responsive interfaces and scalable systems.
+Computer Science graduate with First Class Honours from Northumbria University. I have hands-on experience in full-stack web development, with a focus on building accessible, responsive, and scalable applications. My main stack includes JavaScript/TypeScript, React, PHP, and SQL, with additional skills in cloud deployment using Microsoft Azure.
 
 ---
 
